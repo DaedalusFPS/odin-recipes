@@ -1,0 +1,31 @@
+h1 {
+  background-color: aquamarine;
+  color:rgb(243, 145, 25);
+  text-align: center;
+}
+
+h2 {
+  color:chartreuse;
+}
+
+h3 {
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  text-align: right;
+  text-decoration: underline;
+  color:hotpink;
+  background-color: orchid;
+}
+
+p {
+  font-weight: 800;
+}
+
+ul li {
+  background-color: brown;
+  font-size: 20px;
+}
+
+ol li {
+  color: red;
+  font-size: 8px;
+}
